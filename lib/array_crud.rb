@@ -37,5 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-
+  favorite_manga = ["tokyo ghoul", "one punch man", "wotakoi", "promised neverland", "arrays!"]
+  favorite_manga [-1]
 end
