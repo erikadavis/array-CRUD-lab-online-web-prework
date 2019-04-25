@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-
+  favorite_manga = ["tokyo ghoul", "one punch man", "wotakoi", "promised neverland"]
+  favorite_manga << "monster tamer girls"
 end
 
 def add_element_to_start_of_array(array, element)
